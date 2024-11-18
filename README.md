@@ -1,7 +1,9 @@
+<!--
 <div align="center"> 
-   <!-- <img src="https://profile-counter.glitch.me/arnaudderison/count.svg" /><br /> -->
+   <img src="https://profile-counter.glitch.me/arnaudderison/count.svg" /><br />
     <img src="./snake.svg" />
 </div>
+-->
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=arnaudderison&show_icons=true&theme=radical" alt="Arnaud's GitHub stats" width="48%" />
