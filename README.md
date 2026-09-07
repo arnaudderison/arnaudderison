@@ -1,11 +1,11 @@
-<!--
+
 <div align="center"> 
-   <img src="https://profile-counter.glitch.me/arnaudderison/count.svg" /><br />
+   <!-- <img src="https://profile-counter.glitch.me/arnaudderison/count.svg" /><br /> -->
     <img src="./snake.svg" />
 </div>
--->
 
-<p align="center">
+
+<!-- <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=arnaudderison&show_icons=true&theme=radical" alt="Arnaud's GitHub stats" width="48%" />
 </p>
 
@@ -25,4 +25,4 @@
     <a href="https://www.w3.org/TR/CSS/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="linux" width="40" height="40"/> </a>
    <a><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" width="40" height="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
+</p> -->
